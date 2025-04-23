@@ -1,3 +1,4 @@
+// enum
 public enum PieceType
 {
     EmptySpace,
