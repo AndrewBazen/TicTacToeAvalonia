@@ -10,7 +10,7 @@ namespace TicTacToeAvalonia
             InitializeComponent();
         }
 
-        public class Board()
+        public class Board
         {
             //fields
             //Tuple + Dictionary option:
